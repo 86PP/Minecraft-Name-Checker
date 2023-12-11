@@ -3,7 +3,11 @@
 
 - Launch and drag the text file with the nicknames you want to verify
 
-🧱 pip install requests
-🧱 pip install colorama
+- pip install requests
+- pip install colorama
+
+---
+
+- Launch and drag the text file with the nicknames you want to verify
 
 ![alt text](https://i.ibb.co/L8vGGtD/2023-12-11-18-31-44.gif)
